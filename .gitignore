@@ -1,0 +1,12 @@
+.DS*
+*.sublime-project
+*.sublime-workspace
+
+node_modules
+*debug.log
+*.DS*
+*.sw*
+.env
+dist
+version.txt
+.sass_cache
